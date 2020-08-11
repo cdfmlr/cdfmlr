@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<details>
+
+<summary>Wakatime 统计信息</summary>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+</details>
