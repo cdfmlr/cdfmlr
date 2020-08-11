@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <details>
 
-<summary>Wakatime 统计信息</summary>
+<summary>My Wakatime Data</summary>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
@@ -84,5 +84,13 @@ C#                       2 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+</details>
+
+<details>
+ 
+ <summary>My GitHub Stats</summary>
+
+[![CDFMLR's github stats](https://github-readme-stats.vercel.app/api?username=cdfmlr&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
