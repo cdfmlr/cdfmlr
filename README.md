@@ -20,51 +20,51 @@ Here are some ideas to get you started:
 <summary>My Wakatime Data</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-5.1%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.1%20million%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 431 Contributions in year 2020
+> 🏆 432 Contributions in the year 2020
  > 
-> 📦 Used 76.5 kB in GitHub's Storage 
+> 📦 84.3 kB Used in Github's Storage 
  > 
-> 🚫 Not opted to Hire
+> 🚫 Not Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 25 Public repositories
  > 
-> 🔑 2 Owned Private Repositories 
+> 🔑 2 Private repositories 
 
-**I'm an early 🐤** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning    137 commits    █████░░░░░░░░░░░░░░░░░░░░   20.95% 
-🌆 Daytime    240 commits    █████████░░░░░░░░░░░░░░░░   36.7% 
-🌃 Evening    264 commits    ██████████░░░░░░░░░░░░░░░   40.37% 
+🌞 Morning    136 commits    █████░░░░░░░░░░░░░░░░░░░░   20.83% 
+🌆 Daytime    241 commits    █████████░░░░░░░░░░░░░░░░   36.91% 
+🌃 Evening    263 commits    ██████████░░░░░░░░░░░░░░░   40.28% 
 🌙 Night      13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99%
 
 ```
-📅 **I'm Most Productive on Tuesdays** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.31% 
-Tuesday      125 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.11% 
-Wednesday    105 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.06% 
-Thursday     87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.3% 
-Friday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.15% 
-Saturday     88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
-Sunday       89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.61%
+Monday       74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
+Tuesday      125 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.14% 
+Wednesday    104 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.93% 
+Thursday     87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.32% 
+Friday       85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
+Saturday     88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
+Sunday       90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.78%
 
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Shanghai
+⌚︎ Time zone: Asia/Shanghai
 
 ```
 
-**I mostly code in Python** 
+**I Mostly Code in Python** 
 
 ```text
 Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   26.09% 
