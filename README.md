@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <summary>My Wakatime Data</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 586 Contributions in the Year 2020
+> 🏆 588 Contributions in the Year 2020
  > 
 > 📦 225.5 kB Used in Github's Storage 
  > 
@@ -47,12 +47,12 @@ Here are some ideas to get you started:
 
 ```text
 Monday       75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
-Tuesday      117 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.59% 
+Tuesday      119 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.89% 
 Wednesday    112 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.84% 
 Thursday     74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.13% 
 Friday       103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.49% 
-Saturday     96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
-Sunday       88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.23%
+Saturday     95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Sunday       87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.08%
 
 ```
 
