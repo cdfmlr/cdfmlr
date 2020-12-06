@@ -30,9 +30,9 @@ Here are some ideas to get you started:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 30 Public Repositories
+> 📜 30 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 6 Private Repositories  
 
 **I'm an Early 🐤** 
 
