@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 <summary>My Wakatime Data</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-604555%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-604430%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 38 Contributions in the Year 2021
+> 🏆 39 Contributions in the Year 2021
  > 
-> 📦 233.9 kB Used in Github's Storage 
+> 📦 234.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    169 commits    ██████░░░░░░░░░░░░░░░░░░░   24.93% 
-🌆 Daytime    255 commits    █████████░░░░░░░░░░░░░░░░   37.61% 
+🌞 Morning    168 commits    ██████░░░░░░░░░░░░░░░░░░░   24.78% 
+🌆 Daytime    256 commits    █████████░░░░░░░░░░░░░░░░   37.76% 
 🌃 Evening    242 commits    █████████░░░░░░░░░░░░░░░░   35.69% 
 🌙 Night      12 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.77%
 
