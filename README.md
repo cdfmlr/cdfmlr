@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <summary>My Wakatime Data</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-606429%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-608378%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 45 Contributions in the Year 2021
+> 🏆 52 Contributions in the Year 2021
  > 
 > 📦 234.0 kB Used in Github's Storage 
  > 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
  > 
 > 📜 33 Public Repositories 
  > 
-> 🔑 5 Private Repositories  
+> 🔑 6 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -67,11 +67,11 @@ Sunday       90 commits     ███░░░░░░░░░░░░░░�
 **I Mostly Code in Go** 
 
 ```text
-Go                       9 repos             ██████░░░░░░░░░░░░░░░░░░░   26.47% 
-Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53% 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+Go                       9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.71% 
+Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   22.86% 
+Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
 
 ```
 
