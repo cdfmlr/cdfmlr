@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <summary>My Wakatime Data</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-614129%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-614381%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 121 Contributions in the Year 2021
+> 🏆 122 Contributions in the Year 2021
  > 
 > 📦 239.2 kB Used in Github's Storage 
  > 
@@ -43,14 +43,14 @@ Here are some ideas to get you started:
 🌙 Night      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25%
 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday       72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.21% 
-Tuesday      106 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.51% 
+Tuesday      107 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
 Wednesday    94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.64% 
 Thursday     80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.46% 
-Friday       107 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Friday       106 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.51% 
 Saturday     92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.33% 
 Sunday       91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17%
 
