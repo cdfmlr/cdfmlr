@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 > 🏆 122 Contributions in the Year 2021
  > 
-> 📦 239.2 kB Used in Github's Storage 
+> 📦 239.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
