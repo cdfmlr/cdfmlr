@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <summary>My Wakatime Data</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-681890%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-681491%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 207 Contributions in the Year 2021
+> 🏆 208 Contributions in the Year 2021
  > 
 > 📦 286.4 kB Used in Github's Storage 
  > 
@@ -49,10 +49,10 @@ Here are some ideas to get you started:
 Monday       55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.68% 
 Tuesday      83 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.12% 
 Wednesday    83 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.12% 
-Thursday     70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
+Thursday     71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
 Friday       88 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.09% 
 Saturday     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.84% 
-Sunday       75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.56%
+Sunday       74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.37%
 
 ```
 
@@ -77,7 +77,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2021
+ Last Updated on 15/07/2021
 <!--END_SECTION:waka-->
 
 </details>
