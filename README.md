@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-653%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-654%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 335 Contributions in the Year 2022
+> 🏆 337 Contributions in the Year 2022
  > 
 > 📦 469.6 kB Used in GitHub's Storage 
  > 
@@ -36,36 +36,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 11 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    83 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.77% 
-🌆 Daytime    193 commits    ██████████░░░░░░░░░░░░░░░   41.33% 
-🌃 Evening    186 commits    ██████████░░░░░░░░░░░░░░░   39.83% 
-🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.49% 
-Tuesday      52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.13% 
-Wednesday    59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
-Thursday     78 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.7% 
-Friday       80 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.13% 
-Saturday     65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
-Sunday       70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.99%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-```
-
 **I Mostly Code in Go** 
 
 ```text
@@ -79,7 +49,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2022 02:39:56 UTC
+ Last Updated on 15/09/2022 02:47:59 UTC
 <!--END_SECTION:waka-->
 
 </details>
