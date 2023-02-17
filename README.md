@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <summary>My Wakatime Data</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-707%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,7 +70,7 @@ Java                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2023 01:54:07 UTC
+ Last Updated on 17/02/2023 01:43:39 UTC
 <!--END_SECTION:waka-->
 
 </details>
