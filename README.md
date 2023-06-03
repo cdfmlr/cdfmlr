@@ -1,19 +1,6 @@
-### Hi there 👋
+# 🥺 Help! I am absorbed by the code. 
 
-<!--
-**cdfmlr/cdfmlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This person avows himself to be a developer.
 
 <details>
 
@@ -78,5 +65,13 @@ TypeScript               1 repo              ░░░░░░░░░░░�
  <summary>My GitHub Stats</summary>
 
 [![CDFMLR's github stats](https://github-readme-stats.vercel.app/api?username=cdfmlr&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
 </details>
+
+<details>
+
+<summary>Known Projects</summary>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=cdfmlr/pyflowchart,cdfmlr/muvtuber,cdfmlr/crud,cdfmlr/murecom-verse-1,cdfmlr/murecom-intro&type=Date)](https://star-history.com/#cdfmlr/pyflowchart&cdfmlr/muvtuber&cdfmlr/crud&cdfmlr/murecom-verse-1&cdfmlr/murecom-intro&Date)
+
+ </details>
