@@ -27,3 +27,4 @@ jobs:
           SHOW_SHORT_INFO: True
           SHOW_LOC_CHART: True
           SHOW_TOTAL_CODE_TIME: False
+          IGNORED_REPOS: "Rime"
