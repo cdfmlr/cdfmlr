@@ -4,8 +4,9 @@ on:
   schedule:
     # Runs at 00:00 UTC every day
     - cron: '00 00 * * *'
-  push:
-    branches: ["master"]
+#   push:
+#     branches: ["master"]
+# ❌ push -> run this workflow -> push update -> run this workflow -> ...
 
 jobs:
   update-readme:
