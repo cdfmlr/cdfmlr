@@ -4,16 +4,16 @@ on:
   schedule:
     # Runs at 00:00 UTC every day
     - cron: '00 00 * * *'
-#   push:
-#     branches: ["master"]
-# ❌ push -> run this workflow -> push update -> run this workflow -> ...
+  push:
+    branches: ["wakaReadmeCiTest"]
+    # ❌ not master: push -> run this workflow -> push update -> run this workflow -> ...
 
 jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: AyushAgnihotri2025/waka-readme-stats@master  # anmol098/waka-readme-stats@master
+      - uses: cdfmlr/waka-readme-stats@master  # anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
