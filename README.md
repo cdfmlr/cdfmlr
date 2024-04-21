@@ -15,9 +15,9 @@ This person avows himself to be a developer.
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 89 Public Repositories 
+> 📜 90 Public Repositories 
  > 
-> 🔑 28 Private Repositories 
+> 🔑 27 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -53,7 +53,7 @@ Shell                    2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/04/2024 01:14:16 UTC
+ Last Updated on 21/04/2024 01:19:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
