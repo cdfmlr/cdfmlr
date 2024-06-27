@@ -1,4 +1,6 @@
-# 🥺 Help! I am absorbed by the code. 
+# Ciallo～(∠・ω< )⌒☆
+
+> ~~「わが名はシーディー・エフエム・エルアー！紅魔族随一のクラウドネイティブのせがれ。コンテーナー・オーケストレーションを生業とし、最強のソフトウェア魔法〈クバネティス〉を操る者！」~~
 
 This person avows himself to be a developer.
 
