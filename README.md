@@ -1,4 +1,6 @@
-wakaReadmeCiTest.
+wakaReadmeCiTest: this branch is used as a trigger for testing ci config/dep changes.
+
+now testing: https://github.com/cdfmlr/cdfmlr/commit/8150793341f12c14753e48759d0942864e0dc214
 
 # 🥺 Help! I am absorbed by the code. 
 
