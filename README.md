@@ -79,7 +79,7 @@ TypeScript               2 repos             ░░░░░░░░░░░�
  
  <summary>My GitHub Stats</summary>
 
-[![CDFMLR's github stats](https://github-readme-stats.vercel.app/api?username=cdfmlr&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)   ![CDFMLR's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdfmlr&layout=compact&hide=jupyter%20notebook,stylus,tex)
+[![CDFMLR's github stats](https://github-readme-stats.vercel.app/api?username=cdfmlr&count_private=true&show_icons=true&hide_rank=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)   ![CDFMLR's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdfmlr&layout=compact&hide=jupyter%20notebook,stylus,tex)
  
 </details>
 
