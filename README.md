@@ -6,6 +6,26 @@ This person avows himself to be a developer.
 
 Homepage: [www.murchinroom.fun](https://www.murchinroom.fun)
 
+<!-- <details> -->
+ 
+<!-- <summary>My GitHub Stats</summary> -->
+
+<!-- [![CDFMLR's github stats](https://github-readme-stats.vercel.app/api?username=cdfmlr&count_private=true&show_icons=true&hide_rank=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)   ![CDFMLR's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdfmlr&layout=compact&hide=jupyter%20notebook,stylus,tex) -->
+
+<table>
+	<tr>
+		<td valign="center">
+    		<img src="https://github-readme-stats.vercel.app/api?username=cdfmlr&count_private=true&show_icons=true&hide_rank=true&hide=contribs" alt="CDFMLR's github stats" />
+		</td>
+		<td valign="center">
+    		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdfmlr&layout=compact&hide=jupyter%20notebook,stylus,tex" alt="CDFMLR's Top Langs" />
+		</td>
+	</tr>
+</table>
+
+<!-- </details>  -->
+
+
 <details>
 
 <summary>My Wakatime Data</summary>
@@ -72,25 +92,6 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
  Last Updated on 03/12/2024 01:53:50 UTC
 <!--END_SECTION:waka-->
-
-</details>
-
-<details>
- 
- <summary>My GitHub Stats</summary>
-
-<!-- [![CDFMLR's github stats](https://github-readme-stats.vercel.app/api?username=cdfmlr&count_private=true&show_icons=true&hide_rank=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)   ![CDFMLR's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdfmlr&layout=compact&hide=jupyter%20notebook,stylus,tex) -->
-
-<table align="center">
-	<tr>
-		<td valign="center">
-    		<img src="https://github-readme-stats.vercel.app/api?username=cdfmlr&count_private=true&show_icons=true&hide_rank=true&hide=contribs" alt="CDFMLR's github stats" />
-		</td>
-		<td valign="center">
-    		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdfmlr&layout=compact&hide=jupyter%20notebook,stylus,tex" alt="CDFMLR's Top Langs" />
-		</td>
-	</tr>
-</table>
 
 </details>
 
