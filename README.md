@@ -81,10 +81,16 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
 <!-- [![CDFMLR's github stats](https://github-readme-stats.vercel.app/api?username=cdfmlr&count_private=true&show_icons=true&hide_rank=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)   ![CDFMLR's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdfmlr&layout=compact&hide=jupyter%20notebook,stylus,tex) -->
 
-<p align="middle">
-    <img src="https://github-readme-stats.vercel.app/api?username=cdfmlr&count_private=true&show_icons=true&hide_rank=true&hide=contribs" alt="CDFMLR's github stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdfmlr&layout=compact&hide=jupyter%20notebook,stylus,tex" alt="CDFMLR's Top Langs" />
-</p>
+<table align="center">
+	<tr>
+		<td valign="center">
+    		<img src="https://github-readme-stats.vercel.app/api?username=cdfmlr&count_private=true&show_icons=true&hide_rank=true&hide=contribs" alt="CDFMLR's github stats" />
+		</td>
+		<td valign="center">
+    		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdfmlr&layout=compact&hide=jupyter%20notebook,stylus,tex" alt="CDFMLR's Top Langs" />
+		</td>
+	</tr>
+</table>
 
 </details>
 
