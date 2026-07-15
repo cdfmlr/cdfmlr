@@ -7,7 +7,7 @@
 
 This person avows himself to be a developer.
 
-Homepage: [www.murchinroom.fun](https://www.murchinroom.fun)
+Homepage: [www.murchinroom.fun](https://www.murchinroom.fun) << 僕が作るものは 既にあるものじゃーん
 
 <!-- <details> -->
  
