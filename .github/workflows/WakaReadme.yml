@@ -8,6 +8,9 @@ on:
     branches: ["wakaReadmeCiTest"]
     # ❌ not master: push -> run this workflow -> push update -> run this workflow -> ...
 
+permissions:
+    contents: write
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
