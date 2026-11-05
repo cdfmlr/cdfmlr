@@ -34,38 +34,38 @@ Homepage: [www.murchinroom.fun](https://www.murchinroom.fun) << 僕が作るも�
 <summary>My Wakatime Data</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.95%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.93%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 985.0 kB Used in GitHub's Storage 
+> 📦 995.8 kB Used in GitHub's Storage 
  > 
-> 🏆 890 Contributions in the Year 2026
+> 🏆 919 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 106 Public Repositories 
+> 📜 107 Public Repositories 
  > 
 > 🔑 45 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4120 commits        ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
-🌆 Daytime                7617 commits        ████████████░░░░░░░░░░░░░   46.00 % 
-🌃 Evening                4726 commits        ███████░░░░░░░░░░░░░░░░░░   28.54 % 
+🌞 Morning                4127 commits        ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+🌆 Daytime                7638 commits        ████████████░░░░░░░░░░░░░   46.05 % 
+🌃 Evening                4726 commits        ███████░░░░░░░░░░░░░░░░░░   28.49 % 
 🌙 Night                  95 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2308 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-Tuesday                  2866 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-Wednesday                2765 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Thursday                 2536 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Friday                   2581 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Saturday                 1936 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Sunday                   1566 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Monday                   2308 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Tuesday                  2866 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Wednesday                2788 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Thursday                 2541 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Friday                   2581 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Saturday                 1936 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Sunday                   1566 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
 ```
 
 
@@ -85,17 +85,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Go** 
 
 ```text
-Go                       42 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
-HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Go                       42 repos            ████████░░░░░░░░░░░░░░░░░   33.07 % 
+HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Shell                    5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 ```
 
 
 
 
- Last Updated on 04/11/2026 05:44:41 UTC
+ Last Updated on 05/11/2026 06:02:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
